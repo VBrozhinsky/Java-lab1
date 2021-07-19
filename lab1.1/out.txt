@@ -1,0 +1,7 @@
+Invalid amount of args exception for a command
+
+===============================================
+Default Suite
+Total tests run: 9, Failures: 0, Skips: 0
+===============================================
+
