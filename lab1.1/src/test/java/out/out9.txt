@@ -1,2 +1,0 @@
-Invalid amount of args exception for a command
-4.0

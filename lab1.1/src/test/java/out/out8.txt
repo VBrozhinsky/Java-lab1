@@ -1,3 +1,0 @@
-Stack hasn't enough elements. Command was ignored. Check logic of your program. null
-Stack hasn't enough elements. Command was ignored. Check logic of your program. null
-8.0

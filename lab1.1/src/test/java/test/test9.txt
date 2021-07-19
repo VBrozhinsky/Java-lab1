@@ -1,4 +1,0 @@
-DEFINE a 4
-DEFINE b
-PUSH a
-PRINT

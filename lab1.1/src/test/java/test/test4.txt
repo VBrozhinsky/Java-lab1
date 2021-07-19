@@ -1,8 +1,0 @@
-DEFINE a 4
-PUSH a
-DEFINE b 12
-PUSH b
-*
-PUSH a
-/
-PRINT
